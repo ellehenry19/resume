@@ -1,0 +1,165 @@
+{
+  "firstname": "Elle",
+  "lastname": "Henry",
+  "contact": {
+    "email": "ellehenry19@gmail.com",
+    "phone": "(510)393-3865",
+    "website": "www.code2040.com",
+    "linkedin": "linkedin.com/in/elle-h-61969655"
+  },
+  "skills": {
+    "details": [
+      {
+        "type": "Programming Languages",
+        "items": [
+          "HTML",
+          "Javascript",
+          "CSS"
+        ]
+      },
+      {
+        "type": "Office Suite",
+        "items": [
+          "Microsoft Office Suite",
+          "Google Suite"
+        ]
+      },
+      {
+        "type": "Project Management",
+        "items": [
+          "Resource Planning & Time Management",
+          "Advanced Negotiation Skills",
+		"Collaborative Leadership",
+		"Custom Software Development",
+          "Customer Oriented"
+        ]
+      },
+      {
+        "type": "Financial",
+        "items": [
+          "Strong Fiscal Budgeting",
+          "Financial Forecastiing",
+          "Substantial Business Acumen"
+        ]
+      },
+      {
+        "type": "Interests",
+        "items": [
+          "Human Capital & Automation",
+          "Machine Learnining",
+          "Blockchain Platforms - FinTech & Legal"
+        ]
+      }
+    ]
+  },
+
+"work_experience": {
+    "items": [
+      {
+        "title": "Founder",
+        "organization": "AutomateIT Bookkeeping",
+        "location": "San Francisco, CA",
+        "from": "June 2013",
+        "to": "Present",
+        "details": [
+          "Remotely managed budgeting and revenue for +10 clients by maintaining weekly fiscal operations, development of budgeting reports and strategic financial forecast analysis boosting client’s efficiency and productivity"
+        ],
+        "technology_used": {
+          "tools": [
+            "Quickbooks Online",
+            "Quicken",
+		  "HTML",
+            "CSV to QIF converter"
+          ]
+        }
+      }
+    ],
+    "items":[
+      {
+        "title": "Technical Solutions Consultant",
+        "organization": "BC Forward/Accenture",
+        "location": "Sunnyvale, CA",
+        "from": "August 2015",
+        "to": “June 2016”,
+        "details": [
+          "Successfully launched CRM workflow processes by working closely with project management, front end and back end development teams to identify opportunities and strategies to create and refine processes and development of software improvements with engineers"
+        ],
+        "technology_used": {
+          "tools": [
+            “HTML”,
+            “Salesforce”,
+		  “Android”,
+            “Chrome OS”
+          ]
+        }
+      }
+    ]
+  },
+{
+        "title": “Operations Manager”,
+        "organization": “Berkeley Chamber of Commerce”,
+        "location": “Berkeley, CA",
+        "from": “July 2014”,
+        "to": “August 2015”,
+        "details": [
+          "Increased operational efficiency +75% by providing executive management on development and implementation of cloud based technological improvements to HR, IT and Finance support services while maintaining coordination and communication support of business functions"
+        ],
+        "technology_used": {
+          "tools": [
+            “Google Suite”,
+            “PayChex”,
+		  “Quickbooks Online”,
+            “Microsoft Suite”
+          ]
+        }
+      }
+    ]
+  },
+
+  "involvement": {
+    "organizations": [
+      “Finance Director, Black Student Union, University of California - Berkeley, Fall 2018 to Spring 2019",
+      “Volunteer, Women of Color in Tech, Mills College, January 2018",
+      “Volunteer, AfroTech, San Francisco, Nov 2017”
+    ]
+  },
+  "achievements": {
+    "items": [
+      "Awarded “Business Operator” award for effectively working on multiple projects within given deadlines with robust accuracy and detail in a fast pace and dynamic environment"
+    ]
+  },
+  "additional_info": {
+    "items": [
+      "Languages: English (fluent), Spanish (basic)",
+      "Interests: Hiking, Yoga, Meditation, Dance.”
+    ]
+  },
+  "education": {
+    "schools": [
+      {
+        "degree": "Bachelor of Arts”,
+        "major": “Political Economy”,
+	   "minor”: “Computer Science”,
+        "institution": "University of California, Berkeley“,
+        "graduation_year": 2021
+      }
+    ]
+  },
+  "undergrad_courses": [
+    {
+      "name": “The Social Life of Computing“,
+      "url": "https://isf.ugis.berkeley.edu/fall-2017-isf-100j-social-life-computing"
+    },
+    {
+      "name": “Information Technology & Society“,
+      "url": "https://classes.berkeley.edu/content/2018-fall-africam-134-001-lec-001"
+    },
+      ],
+    },
+  "show_assessments_on_resume": {
+    "required_assessment": true,
+    "optional_assessment_1": true,
+    "optional_assessment_2": true,
+    "optional_assessment_3": true
+  }
+}
